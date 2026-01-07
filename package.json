@@ -1,0 +1,21 @@
+{
+  "name": "traces",
+  "version": "1.0.0",
+  "description": "traces core class fall",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "traces",
+    "p5.js",
+    "node"
+  ],
+  "author": "Alinah Danish",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  }
+}
